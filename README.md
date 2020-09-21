@@ -1,11 +1,13 @@
 ### Hi there 👋
+
+<!--
 #### A highly-motivated software developer
 - 🔭 I’m currently working on an Android application powered by Google ML Kit and a Personal Website which will be hosted on AWS.
 - 📚 I'm currently learning Docker and Kubernetes.
 - 📫 How to reach me: amanpatel.inbox@gmail.com
 
 
-<!--
+
 **amanptl/amanptl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
